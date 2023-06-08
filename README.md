@@ -31,9 +31,6 @@ Instructions on how to install and run your code. For example:
 
 ```sh
 git clone https://github.com/kashyapHebbar/vision_Transformers.git
-cd interpreting-vit
-pip install -r requirements.txt
-python main.py
 ```
 
 ## How It Works
